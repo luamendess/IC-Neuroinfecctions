@@ -18,6 +18,8 @@
   - git commit -m "resolve merge conflit" 
   - git push origin main
 
+<img width="419" height="115" alt="image" src="https://github.com/user-attachments/assets/d429644f-e44f-4f61-83e4-6bacfc536ecb" />
+
 > git checkout - sai da main e entra na branch
 > merge junta com a nova branch
   - em casos de erro no merge: git pull origin main --no-rebase + ESC + :q!

@@ -1,11 +1,11 @@
 > Olá, este projeto é um teste de aprendizado do Git.
 
-> git init -> cria repositório
-> git add -> arquivo -> stage
-> git commit
-> git remote -> conexão do repositório local com repositório do Git
+git init -> cria repositório
+git add -> arquivo -> stage
+git commit
+git remote -> conexão do repositório local com repositório do Git
 
-> README.md -> new file -> adiciona os arquivos do projeto
+README.md -> new file -> adiciona os arquivos do projeto
 
 > git add .
 > git status
